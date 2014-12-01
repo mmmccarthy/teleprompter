@@ -219,3 +219,12 @@ article .teleprompter.flipxy
 	overflow: hidden;
 	z-index: 10;
 }
+.anchor-highlight{
+	color: black;
+	background: white;
+}
+#select-slug {
+	font-size: 160px;
+	line-height: 160px;
+	height: 160px;
+}
