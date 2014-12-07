@@ -11,7 +11,7 @@
 
 3. Copy your spreadsheet key from the URL. If your url is:
 ```
-https://docs.google.com/a/u.northwestern.edu/spreadsheets/d/1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs/edit#gid=0
+https://docs.google.com/spreadsheets/d/1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs/edit#gid=0
 ```
 your *key* is `1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs`
 
