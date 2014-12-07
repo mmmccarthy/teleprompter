@@ -1,11 +1,14 @@
 ## Teleprompter: with Google Spreadsheet integration
 
 ### How to Use
-1. Create a new Google Sheet using the format found in sheets/News Production.xslx or follow the table below.
 
 |SLUG|REPORTER|SCRIPT|ANCHOR|
 |-----|-----|------|------|
 |TEST|Reporter|Type your script here....|ANCHOR|
+
+1. Create a new Google Sheet using the format found in `sheets/News Production.xslx` or like the table above.
+
+     Start a new row for each story.
 
 2. Publish your spreadsheet to the web by clicking File > Publish to the web. 
 
@@ -15,10 +18,11 @@
      ```
      your *key* is `1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs`
 
-4. Open the file js/gsheet.js and copy your key into the line 3.
+4. Open the file `js/gsheet.js` and copy your key into the line 3.
      ```
      var key = "YOUR KEY HERE";
      ```
+5. Open Teleprompter and select the desired story by Slug to start reading.
 
 ---
 ## Original Documentation
