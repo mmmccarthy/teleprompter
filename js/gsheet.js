@@ -1,6 +1,8 @@
 var scripts = []; 
 
-$.getJSON("https://spreadsheets.google.com/feeds/list/1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs/od6/public/values?alt=json", function(data) {
+var key = "1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs";
+
+$.getJSON("https://spreadsheets.google.com/feeds/list/"+key+"/od6/public/values?alt=json", function(data) {
 
 	for (var i = 0; i < data.feed.entry.length; i++) {
 	var id = i;
