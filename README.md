@@ -3,15 +3,15 @@
 ### How to Use
 1. Create a new Google Sheet using the format found in sheets/News Production.xslx or follow the table below.
 
-     |SLUG|REPORTER|SCRIPT|ANCHOR|
-     |-----|-----|------|------|
-     |TEST|Reporter|Type your script here....|ANCHOR|
+|SLUG|REPORTER|SCRIPT|ANCHOR|
+|-----|-----|------|------|
+|TEST|Reporter|Type your script here....|ANCHOR|
 
 2. Publish your spreadsheet to the web by clicking File > Publish to the web. 
 
 3. Copy your spreadsheet key from the URL. If your url is:
      ```
-     https://docs.google.com/spreadsheets/d/1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs/   edit#gid=0
+     https://docs.google.com/spreadsheets/d/1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs/edit#gid=0
      ```
      your *key* is `1jRxm9zBw2itj0EDHXQ3yQ71fI6BsTJ9MvRqsQI4_TVs`
 
